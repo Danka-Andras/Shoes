@@ -1,0 +1,184 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "brand": "Nike",
+      "model": "Air Max 90",
+      "size": 42,
+      "color": "Red",
+      "price": 120.99,
+      "category": "Sports"
+    },
+    {
+      "id": "2",
+      "brand": "Adidas",
+      "model": "Ultraboost 22",
+      "size": 43,
+      "color": "Black",
+      "price": 180.5,
+      "category": "Sports"
+    },
+    {
+      "id": "3",
+      "brand": "Puma",
+      "model": "Future Rider",
+      "size": 41,
+      "color": "White",
+      "price": 75,
+      "category": "Casual"
+    },
+    {
+      "id": "4",
+      "brand": "Reebok",
+      "model": "Classic Leather",
+      "size": 44,
+      "color": "Blue",
+      "price": 65.99,
+      "category": "Casual"
+    },
+    {
+      "id": "5",
+      "brand": "New Balance",
+      "model": "990v5",
+      "size": 46,
+      "color": "Grey",
+      "price": 175,
+      "category": "Running"
+    },
+    {
+      "id": "6",
+      "brand": "Under Armour",
+      "model": "HOVR Phantom",
+      "size": 42,
+      "color": "Yellow",
+      "price": 140.75,
+      "category": "Running"
+    },
+    {
+      "id": "7",
+      "brand": "Vans",
+      "model": "Old Skool",
+      "size": 43,
+      "color": "Black & White",
+      "price": 60,
+      "category": "Casual"
+    },
+    {
+      "id": "8",
+      "brand": "Converse",
+      "model": "Chuck Taylor All Star",
+      "size": 40,
+      "color": "Red",
+      "price": 50.99,
+      "category": "Casual"
+    },
+    {
+      "id": "9",
+      "brand": "Jordan",
+      "model": "1 Retro High OG",
+      "size": 44,
+      "color": "Royal Blue",
+      "price": 160,
+      "category": "Sports"
+    },
+    {
+      "id": "10",
+      "brand": "Saucony",
+      "model": "Jazz Original",
+      "size": 45,
+      "color": "Navy",
+      "price": 85,
+      "category": "Running"
+    },
+    {
+      "id": "11",
+      "brand": "Nike",
+      "model": "Air Force 1",
+      "size": 42,
+      "color": "White",
+      "price": 90,
+      "category": "Casual"
+    },
+    {
+      "id": "12",
+      "brand": "Adidas",
+      "model": "Superstar",
+      "size": 43,
+      "color": "Black",
+      "price": 85,
+      "category": "Casual"
+    },
+    {
+      "id": "13",
+      "brand": "Puma",
+      "model": "Suede Classic",
+      "size": 41,
+      "color": "Grey",
+      "price": 70,
+      "category": "Casual"
+    },
+    {
+      "id": "14",
+      "brand": "Reebok",
+      "model": "Nano X1",
+      "size": 44,
+      "color": "Purple",
+      "price": 130,
+      "category": "Sports"
+    },
+    {
+      "id": "15",
+      "brand": "New Balance",
+      "model": "574 Classic",
+      "size": 42,
+      "color": "Black",
+      "price": 80,
+      "category": "Casual"
+    },
+    {
+      "id": "16",
+      "brand": "Under Armour",
+      "model": "Charged Assert 8",
+      "size": 46,
+      "color": "White & Red",
+      "price": 95,
+      "category": "Running"
+    },
+    {
+      "id": "17",
+      "brand": "Vans",
+      "model": "Authentic",
+      "size": 41,
+      "color": "Green",
+      "price": 50,
+      "category": "Casual"
+    },
+    {
+      "id": "18",
+      "brand": "Converse",
+      "model": "One Star",
+      "size": 40,
+      "color": "Blue",
+      "price": 65,
+      "category": "Casual"
+    },
+    {
+      "id": "19",
+      "brand": "Jordan",
+      "model": "4 Retro",
+      "size": 44,
+      "color": "Black/Red",
+      "price": 200,
+      "category": "Sports"
+    },
+    {
+      "id": "3a58",
+      "brand": "Adidas",
+      "model": "Ozweego",
+      "size": 40,
+      "color": "White",
+      "price": 0,
+      "category": "Sports"
+    }
+  ]
+}
